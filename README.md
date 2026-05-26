@@ -173,6 +173,10 @@ Recommended deployment platform:
 
 - Streamlit Cloud
 
+## Live Demo
+
+https://data-chunks-maker.streamlit.app
+
 ---
 
 ## Author
